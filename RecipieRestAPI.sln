@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipieRestAPI", "RecipieRestAPI\RecipieRestAPI.csproj", "{243B9011-D05A-4A18-A38B-E118A67E8B8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{243B9011-D05A-4A18-A38B-E118A67E8B8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{243B9011-D05A-4A18-A38B-E118A67E8B8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{243B9011-D05A-4A18-A38B-E118A67E8B8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{243B9011-D05A-4A18-A38B-E118A67E8B8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {647539D4-65B5-4D82-ADD4-978AEDDEC590}
+	EndGlobalSection
+EndGlobal
